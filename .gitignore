@@ -1,3 +1,4 @@
 active_keys.txt
 node_modules/
 .env
+*.log
